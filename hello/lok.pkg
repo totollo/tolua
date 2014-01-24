@@ -1,0 +1,10 @@
+$#include <stdio.h>
+$#include "ok.h"
+
+class ok
+{
+	public:
+		void show(int x);
+		ok();
+		~ok();
+}
